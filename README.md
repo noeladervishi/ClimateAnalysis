@@ -30,7 +30,7 @@ End-to-end pipeline for:
 
 ```bash
 git clone <repo link>
-cd climateanalysis
+cd ClimateAnalysis
 
 py -m venv .venv
 .venv\Scripts\activate
